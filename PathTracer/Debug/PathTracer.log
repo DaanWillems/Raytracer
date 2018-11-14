@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\solaw\source\repos\pathtracer\pathtracer\include\vec3.h(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\include\vec3.h(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\include\hitablelist.h(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\solaw\source\repos\pathtracer\pathtracer\src\main.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PathTracer.vcxproj -> C:\Users\solaw\source\repos\PathTracer\Debug\PathTracer.exe
