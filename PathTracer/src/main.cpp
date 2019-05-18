@@ -72,9 +72,9 @@ int main() {
 	std::ofstream out("test.ppm");
 	std::cout.rdbuf(out.rdbuf()); //redirect std::cout to file
 
-	int nx = 400;
-	int ny = 200;
-	int ns = 20;
+	int nx = 100;
+	int ny = 100;
+	int ns = 50;
 
 	vec3 lowerLeftCorner{ -2.0, -1.0, -1.0 };
 	vec3 horizontal{ 4.0, 0.0, 0.0 };
