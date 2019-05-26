@@ -120,8 +120,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\Camera.h" />
+    <ClInclude Include="include\dielectric.h" />
     <ClInclude Include="include\Hitable.h" />
     <ClInclude Include="include\HitableList.h" />
+    <ClInclude Include="include\lambertian.h" />
+    <ClInclude Include="include\material.h" />
+    <ClInclude Include="include\metal.h" />
     <ClInclude Include="include\ray.h" />
     <ClInclude Include="include\Sphere.h" />
     <ClInclude Include="include\vec3.h" />
